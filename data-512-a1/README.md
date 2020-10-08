@@ -14,7 +14,7 @@ The source data is available under Wikipedia's standard Creative Commons license
 
 - [Wikimedia Foundation REST API terms of use](https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions)
 
-- [Legacy API Documentation API]https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts)
+- [Legacy API Documentation API](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts)
 
 - [Pageviews API Documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews)
 
